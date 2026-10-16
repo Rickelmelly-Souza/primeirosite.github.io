@@ -13,13 +13,11 @@
 
 .logo {
     width: 5vw;
-    background-color: blueviolet;
 }
 
 .menu {
     width: 75vw;
     height: 60px;
-    background-color: brown;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -32,5 +30,5 @@
 }
 
 .logo img{
-    width: 40px;
+    width: 80px;
 }
