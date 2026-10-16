@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    width: 100vw;
+    height: 60px;
+    border-bottom: solid 1px gray;
+    display: flex;
+    
+}
+
+.logo {
+    width: 5vw;
+    background-color: blueviolet;
+}
+
+.menu {
+    width: 75vw;
+    height: 60px;
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.menu li {
+    display: inline;
+    margin: 0 20px;
+}
+
+.logo img{
+    width: 40px;
+}
